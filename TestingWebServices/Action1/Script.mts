@@ -1,4 +1,6 @@
-﻿url = "http://maps.googleapis.com/maps/api/distancematrix/xml?" & _
+﻿'reference URL: http://relevantcodes.com/working-with-webservices/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+RelevantCodes+%28Relevant+Codes+by+Anshoo+Arora%29
+
+url = "http://maps.googleapis.com/maps/api/distancematrix/xml?" & _
 		"origins=Atlanta+GA+USA&" & _
 		"destinations=Dallas+TX+USA&" & _
 		"units=imperial&" & _
